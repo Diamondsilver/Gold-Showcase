@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gold-Showcase/static/css/main.c5c65ab2.css",
+    "main.js": "/Gold-Showcase/static/js/main.b39aa4cd.js",
+    "static/js/787.754789d3.chunk.js": "/Gold-Showcase/static/js/787.754789d3.chunk.js",
+    "static/media/finegold.png": "/Gold-Showcase/static/media/finegold.d82288a256045e2e2cbe.png",
+    "static/media/try1.png": "/Gold-Showcase/static/media/try1.93b9375e6d65a172fe1f.png",
+    "static/media/safe.png": "/Gold-Showcase/static/media/safe.9bfbdef38b64c022b316.png",
+    "index.html": "/Gold-Showcase/index.html",
+    "main.c5c65ab2.css.map": "/Gold-Showcase/static/css/main.c5c65ab2.css.map",
+    "main.b39aa4cd.js.map": "/Gold-Showcase/static/js/main.b39aa4cd.js.map",
+    "787.754789d3.chunk.js.map": "/Gold-Showcase/static/js/787.754789d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c65ab2.css",
+    "static/js/main.b39aa4cd.js"
+  ]
+}
